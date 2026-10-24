@@ -6,9 +6,9 @@ This project was developed as part of **Sprint 12 — Real-Time Systems & UI Iso
 
 ## Links
 
-Live:- 
+Live:- https://real-time-chat-application-eosin-seven.vercel.app/
 
-Video:-
+Video:- https://drive.google.com/drive/folders/13y59ZjZU_pn_lZDy5C12zTnJaH3DOMRh?usp=sharing
 
 ## 🚀 Features
 
